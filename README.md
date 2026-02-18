@@ -52,7 +52,7 @@ According to the findings of **Solís-Perales & Zapata**, the conditions for syn
       Where $\bar{d}$ represents the maximum Lyapunov exponent (or divergence) of the isolated dynamical system.
     - Effectively, the "net" coupling must be strong enough and distributed such that the Laplacian-like matrix $\mathcal{C}$ remains stable (negative definite on the transverse manifold), even if some individual links are varying or negative.
 
-## �📊 Results Explanation
+## 📊 Results Explanation
 
 The simulation generates `lorenz_network_simulation.png` containing four key panels:
 
@@ -83,7 +83,7 @@ The simulation generates `lorenz_network_simulation.png` containing four key pan
 
 The script will solve the differential equations, check the spectral stability, and save the results plot to `lorenz_network_simulation.png`.
 
-## � Future Directions
+## Future Directions
 
 Based on this work, several promising avenues for future research and extension include:
 
@@ -93,7 +93,7 @@ Based on this work, several promising avenues for future research and extension 
 4.  **Biological Modelling**: Applying the "negative coupling" concept to neural mass models (e.g., Jansen-Rit) to simulate inhibitory synaptic connections in brain networks.
 5.  **Control Applications**: Using targeted negative couplings as a control strategy to deliberately desynchronize undesirable states (e.g., epileptic seizures).
 
-## �📚 References
+## 📚 References
 
 This work is based on the research presented at PHYSCON 2013:
 
